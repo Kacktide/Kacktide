@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on some projects
 - 🌱 I’m currently learning PHP
-- 📫 How to reach me:
+- 📫 How to reach me:FURY#6717
 - 😄 Pronouns: He/Him
 - Website: [Here](https://itsmefury.codes)
 
