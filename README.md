@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning PHP
 - 📫 How to reach me:FURY#6717
 - 😄 Pronouns: He/Him
-- Website: [Here](https://itsmefury.codes)
+- Website: [Here]([https://itsmefury.codes](https://kacktide.github.io/Personal-Website/))
 
 
 
