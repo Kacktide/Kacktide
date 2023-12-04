@@ -1,8 +1,8 @@
 ### Hello
 
-- 🔭 I’m currently working on some projects
-- 🌱 I’m currently learning PHP
-- 📫 How to reach me:FURY#6717
+- 🔭 I’m currently in highscool
+- 🌱 I’m currently expanding my knowledge
+- 📫 How to reach me : FURY#6717
 - 😄 Pronouns: He/Him
 - Website: [Here]([https://itsmefury.codes](https://kacktide.github.io/Personal-Website/))
 
