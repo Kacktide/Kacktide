@@ -1,6 +1,6 @@
 ### Hello
 
-- 🔭 I’m currently in highscool
+- 🔭 I’m currently in school
 - 🌱 I’m currently expanding my knowledge
 - 📫 How to reach me : @kacktide [Discord]
 - 😄 Pronouns: He/Him
