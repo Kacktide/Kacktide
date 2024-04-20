@@ -3,7 +3,6 @@
 - 🔭 I’m currently in school
 - 🌱 I’m currently expanding my knowledge
 - 📫 How to reach me : @kacktide [Discord]
-- 😄 Pronouns: He/Him
 - 💪 Website: https://kacktide.github.io/
 
 
