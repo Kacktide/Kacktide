@@ -7,10 +7,9 @@
 - Website: https://kacktide.github.io/
 
 
-   ![github-readme-stats vercel](https://github.com/Kacktide/Kacktide/assets/70317531/6dbfab33-324d-4d25-842a-f82e75a7d24f)
-  
-   ![image](https://github.com/Kacktide/Kacktide/assets/70317531/d496e8e8-67f0-46a8-a008-4cd2ddb9226a)
-  
-   ![github-readme-streak-stats herokuapp](https://github.com/Kacktide/Kacktide/assets/70317531/c38958c8-5d52-464a-8677-03b4db88c02c)
+#   ![Kacktide's Stats](https://github-readme-stats.vercel.app/api?username=Kacktide&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+# ![Kacktide's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kacktide&theme=vision-friendly-dark&hide_border=true)
+
+# ![Kacktide's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kacktide&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
   
 
